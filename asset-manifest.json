@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/UniversitySenchola/static/css/main.78be7f44.css",
+    "main.js": "/UniversitySenchola/static/js/main.8001d387.js",
+    "static/media/Rectangle 4620.png": "/UniversitySenchola/static/media/Rectangle 4620.dbba26dd3143d2e04c67.png",
+    "static/media/Rectangle 4629.png": "/UniversitySenchola/static/media/Rectangle 4629.d1afd5cd0864846b2aff.png",
+    "static/media/Rectangle 4621.png": "/UniversitySenchola/static/media/Rectangle 4621.f712a1af0cd1d8d259d5.png",
+    "static/media/Rectangle 4623.png": "/UniversitySenchola/static/media/Rectangle 4623.78b9d2b3bbdd8af61160.png",
+    "static/media/Rectangle 4622.png": "/UniversitySenchola/static/media/Rectangle 4622.a962c3a7ee04fb8a1cfe.png",
+    "static/media/Contactus.jpg": "/UniversitySenchola/static/media/Contactus.a9c61be0d97f25626d52.jpg",
+    "static/media/avatar-img1.jpg": "/UniversitySenchola/static/media/avatar-img1.9c726d3b9e709fc121b1.jpg",
+    "static/media/mail.png": "/UniversitySenchola/static/media/mail.8afbd69c55000424b599.png",
+    "index.html": "/UniversitySenchola/index.html",
+    "main.78be7f44.css.map": "/UniversitySenchola/static/css/main.78be7f44.css.map",
+    "main.8001d387.js.map": "/UniversitySenchola/static/js/main.8001d387.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78be7f44.css",
+    "static/js/main.8001d387.js"
+  ]
+}
