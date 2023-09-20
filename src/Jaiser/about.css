@@ -335,7 +335,12 @@ position: relative;
         margin-top: -12rem;
         position: relative;
       }
-      
+      .designbook-3{
+        transform: rotate(30deg);
+        font-size: 1.5rem;
+        
+        position: absolute;
+    }
     
 
 }
@@ -380,6 +385,20 @@ position: relative;
         margin-top: -20rem;
         font-weight: 800;
     }
+    .designbook-3{
+        transform: rotate(30deg);
+        font-size: 1.5rem;
+        margin-left: 45rem;
+        position: absolute;
+    }
+    .designcircle-3{
+        background-color: rgb(227, 164, 238);
+        height: 3rem;
+        width: 3rem;
+        margin-left: 30.2rem;
+        margin-top: -5.3rem;
+        z-index: -1;
+    }
 
 }
 
@@ -416,6 +435,20 @@ position: relative;
         margin-top: -10rem;
         position: relative;
       }
-     
+      .designbook-3{
+        transform: rotate(30deg);
+        font-size: 1.5rem;
+        margin-left: 15rem;
+        margin-top: -4rem;
+        position: absolute;
+    }
+    .designcircle-3{
+        background-color: rgb(227, 164, 238);
+        height: 3rem;
+        width: 3rem;
+        margin-left: 14.2rem;
+        margin-top: -5.3rem;
+        z-index: -1;
+    }
 }
 
