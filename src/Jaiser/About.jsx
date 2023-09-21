@@ -18,7 +18,7 @@ export default function About() {
 
 </div>
  <div className="container ab-ct1">
-      {/*book2*/}         <div className='designbook-2'><BsBook/></div>
+     
       <Container>
        <Row className='ab-r1'>
             <Col className='ab-colr1' md={4} lg={4}>
