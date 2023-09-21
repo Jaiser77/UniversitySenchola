@@ -15,9 +15,7 @@ export default function About() {
       <img src={require("../Aboutimg/Rectangle 4620.png")} style={{ height: '90vh',width:'100%',margin:'0',padding:'0' }}></img>
       <h2 className='ab1-h1'><span className='sp-1'>W</span>e are the best company for your business ready to take your Brand sky high .</h2>
       <Button variant="success" className='bt-1'>Learn More</Button>
-{/*book4*/}         <div className='designbook-4'><BsBook/></div>
-{/*book5*/}         <div className='designbook-5'><BsBook/></div>
-{/*circle1*/}       <div className='designcircle designcircle-1'></div>
+
 </div>
  <div className="container ab-ct1">
       {/*book2*/}         <div className='designbook-2'><BsBook/></div>
@@ -44,11 +42,11 @@ export default function About() {
             </Col>
        </Row>
        </Container>
-{/*book1*/}        <div className='designbook-1'><BsBook/></div>
+      
       <div className='about-container1' style={{textAlign:'center'}} >
         
-{/*book3*/}         <div className='designbook-3'><BsBook/></div>
-{/*circle2*/}       <div className='designcircle designcircle-2'></div>
+       
+      
           <h3 className='mt-3' style={{color:'green', fontWeight:'900'}}>GLOBAL MANAGED SERVICES</h3>
           <p > Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nesciunt ipsum, fugit distinctio iure iusto tempora.<br/>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, minima.
@@ -85,7 +83,7 @@ export default function About() {
             </div>
        </div>
        {/* Fourth and fifth cards */}
-{/*circle3*/}       <div className='designcircle designcircle-3'></div>
+    
       <div className='ab-card45'>
           <div className='ab-card4'>
             <h3>Rpo</h3>
